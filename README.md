@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="iram(2).jpeg" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Iram Parween</h1>
 
 <h3 align="center">A Passionate Frontend Developer</h3>
