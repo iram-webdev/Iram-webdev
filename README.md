@@ -6,7 +6,7 @@
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=500&lines=Frontend+And+Backend+Developer;React+Express.js+Node.jst+Learner;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=500&lines=Frontend+And+Backend+Developer;React+,+Express.js+,+Node.jst+Learner;Future+Full+Stack+Developer" />
 </p>
 
 ---
