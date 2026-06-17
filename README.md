@@ -19,23 +19,23 @@
 </p>
 
 ---
-📖 Resume Click Here
+👋 Hi, I'm Iram Parween
 
-🔭 I’m currently working on Medezy Institute Of Sciences Patna
+🚀 Aspiring Full Stack Developer
 
-🌱 I’m currently learning Python,PHP,Android
+🌱 Currently learning PHP, Node.js and Backend Development
 
-👨‍💻 All of my projects are available at https://linktr.ee/najeebahmad07
+💻 Building responsive and user-friendly web applications
 
-📝 I regularly write articles on Click Here 😊
+🎨 Skilled in HTML, CSS, JavaScript & GitHub
 
-💬 Ask me about HTML,CSS,JS,BOOTSTRAP,Wordpress,C,C++,JAVA
+📖 Always exploring new technologies and improving my coding skills
 
-📫 How to reach me najeeb@ultragits.com
+🎯 Dream: To become a Professional Full Stack Web Developer
 
-📄 Know about my experiences See 👁️
+💬 Ask me about Frontend Development, GitHub and Web Design
 
-⚡ Fun fact I think I'm Funny
+⚡ Fun fact: Every bug teaches me something new 😄
 
 ---
 
