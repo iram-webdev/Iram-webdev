@@ -19,13 +19,23 @@
 </p>
 
 ---
+📖 Resume Click Here
 
-### 👩‍💻 About Me
+🔭 I’m currently working on Medezy Institute Of Sciences Patna
 
-- 🌱 Currently Learning HTML, CSS & JavaScript
-- 💻 Working on Web Development Projects
-- 🎯 Goal: Become a Full Stack Developer
-- 📫 Reach me: Your Email
+🌱 I’m currently learning Python,PHP,Android
+
+👨‍💻 All of my projects are available at https://linktr.ee/najeebahmad07
+
+📝 I regularly write articles on Click Here 😊
+
+💬 Ask me about HTML,CSS,JS,BOOTSTRAP,Wordpress,C,C++,JAVA
+
+📫 How to reach me najeeb@ultragits.com
+
+📄 Know about my experiences See 👁️
+
+⚡ Fun fact I think I'm Funny
 
 ---
 
