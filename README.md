@@ -1,9 +1,18 @@
-<p align="center">
-  <img src="website design (1).gif" width="750">
-</p>
-<h1 align="center">Hi 👋, I'm Iram Parween</h1>
+<div align="center" style="background-color: #ffffff; padding: 20px 0;">
+  
+  <p align="center">
+    <img src="website design (1).gif" width="850" alt="Coding Animation" />
+  </p>
 
-<h3 align="center">A Passionate Frontend Developer</h3>
+  <h2 align="center" style="color: #000000; border: none;">Hi 👋, I'm Iram Parween</h2>
+
+  <p align="center">
+    <b style="color: #000000;">A passionate Frontend Developer ✨</b>
+  </p>
+
+</div>
+
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=500&lines=Frontend+And+Backend+Developer;React+Express.js+Node.js+Learner;Future+Full+Stack+Developer" />
