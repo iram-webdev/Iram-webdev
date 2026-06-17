@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="website design (1).gif" width="800">
+  <img src="website design (1).gif" width="700">
 </p>
 <h1 align="center">Hi 👋, I'm Iram Parween</h1>
 
